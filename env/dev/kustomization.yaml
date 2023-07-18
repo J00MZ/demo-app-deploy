@@ -5,5 +5,5 @@ resources:
 - ../../base
 
 images:
-- name: ghcr.io/J00MZ/demo-app
-  newTag: a035ad7d8db88e15d6697718bb28de56414c5b60@sha256:291095c74d24a93b545415b884dff875f6d167b69e47628d1c8ac9f096514e6f
+- name: ghcr.io/j00mz/demo-app
+  newTag: a035ad7d8db88e15d6697718bb28de56414c5b60
